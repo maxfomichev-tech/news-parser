@@ -1,0 +1,3 @@
+https://lenta.ru/rss/news
+https://meduza.io/rss/all
+https://tass.ru/rss/v2.xml
